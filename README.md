@@ -20,4 +20,4 @@ Our three main approaches were as follows:
 
 The best performing one was the distilBERT model, but unfortunately we did not have the resources or the time to improve its performance. With data augmentation and ensembling, the results can be further improved. More details on the models and our findings can be found in the ML Project Presentation deck.
 
-This was built using using Python (Scikit-learn, Tensorflow and Natural Language Toolkit). You can install it using: pip install tensorflow sklearn nltk
+This was built using using Python (Scikit-learn, Tensorflow, Natural Language Toolkit, Pandas and Numpy). You can install it using: pip install tensorflow sklearn nltk pandas numpy
