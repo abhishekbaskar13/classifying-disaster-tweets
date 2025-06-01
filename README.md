@@ -3,10 +3,10 @@
 ## Project Overview
 A Python project utilizing LSTMS, GRUs and BERT based models to classify if a tweet was about a disaster or not. The data is from a Kaggle competition (https://www.kaggle.com/competitions/nlp-getting-started) and contains 10k+ tweets with the following columns:
 
-Text : Main content of tweet
-Target : Binary label indicating the disaster ( 1 or 0)
-Keywords : Important words extracted from a tweet
-Location : Geographical Information
+1. Text : Main content of tweet
+2. Target : Binary label indicating the disaster ( 1 or 0)
+3. Keywords : Important words extracted from a tweet
+4. Location : Geographical Information
 
 The training data is present train.csv, and the test data is present in test.csv.
 
